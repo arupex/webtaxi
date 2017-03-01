@@ -1,6 +1,6 @@
 {
   "name": "webtaxi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wrapper for WebdriverIO to handle IOS/Android/Chrome all the same way",
   "main": "webtaxi.js",
   "scripts": {
