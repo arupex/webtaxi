@@ -1,0 +1,41 @@
+{
+  "name": "webtaxi",
+  "version": "0.0.1",
+  "description": "Wrapper for WebdriverIO to handle IOS/Android/Chrome all the same way",
+  "main": "webtaxi.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arupex/webtaxi.git"
+  },
+  "keywords": [
+    "web",
+    "driver",
+    "webdriver",
+    "selenium",
+    "testing",
+    "chrome",
+    "android",
+    "ios",
+    "iphone",
+    "integration",
+    "e2e",
+    "end-to-end",
+    "browser",
+    "webdriverio"
+  ],
+  "author": "dirwin517",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/arupex/webtaxi/issues"
+  },
+  "homepage": "https://github.com/arupex/webtaxi#readme",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "xml-js": "^1.0.2"
+  }
+}
